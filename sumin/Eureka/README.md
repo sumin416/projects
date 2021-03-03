@@ -4,6 +4,9 @@
 
 **감정분석 + 상품추천 쇼핑몰**
 
+
+
+> ### [프로젝트 UCC(시연 영상 포함)](https://drive.google.com/drive/folders/1Ofb9-2kxxbjOtKF_C-UkrQ13kXu8yTV8)
 <br>
 
   
