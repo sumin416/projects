@@ -12,7 +12,7 @@
 
 ## PPT
 
-[구미1반_1조_방구석연구소팀_핸즈_기획서.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/055afe76-0be6-4f01-954c-bd0aaa8a4537/1_1___.pdf)
+[구미1반_1조_방구석연구소팀_핸즈_기획서.pdf](https://github.com/JaeHyukSim/projects/blob/jaehyuk/hands/jaehyuk/hands/data/%EA%B5%AC%EB%AF%B81%EB%B0%98_1%EC%A1%B0_%EB%B0%A9%EA%B5%AC%EC%84%9D%EC%97%B0%EA%B5%AC%EC%86%8C%ED%8C%80_%ED%95%B8%EC%A6%88_%EA%B8%B0%ED%9A%8D%EC%84%9C.pdf)
 
 ## 이 프로젝트를 한 이유
 
