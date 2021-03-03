@@ -79,7 +79,7 @@
 
 [REDIS 사용 이유](https://www.notion.so/REDIS-e2c042ac86864be3b5bf15ea9d4d4ce6)
 
-[mail-auth-server](https://www.notion.so/mail-auth-server-afb42b68121b47d8b9218aae39cb81ba)
+[mail-auth-server](https://github.com/JaeHyukSim/projects/blob/jaehyuk/hands/jaehyuk/hands/mail/mail.md)
 
 ## 앞으로 공부해야 할 목록
 
