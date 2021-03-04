@@ -136,7 +136,7 @@ BitTorrant : 서버는 단순히 파일을 가진 peer 목록 리스트만 가�
 
 [socket이란?](https://www.notion.so/socket-129a30772a3f4d67b9ac5ac4322198b2)
 
-[websocket이란?](https://www.notion.so/websocket-1d7d001b9e6d434e910dae78324e4046)
+[websocket이란?](https://github.com/JaeHyukSim/projects/blob/jaehyuk/project2/jaehyuk/project2/role/websocket.md)
 
 [socket.io란?](https://www.notion.so/socket-io-8b96bc2b98994911b03ffba31c669819)
 
