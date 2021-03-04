@@ -52,10 +52,11 @@
   
 
 **DevOps**
+||기술 스택|
+|--|--|
+|SCM|GitLab,Zira|
+|Cloud Service|AWS,Firebase|
 
-  
-
-  
 
 **Front-end**
 ||기술 스택|
@@ -90,21 +91,7 @@
 ## ISSUES
   
 [# 개발하면서 생겼던 고민점들](./trouble.md)
-  1. RDBMS vs NoSQL
-  2. Restful API vs
-  3. Spring MVC vs SpringBoot
-  4. JPA란?
-  5. Micro Service Architecture란?
-  6. GIT 사용 방법
-  7. AWS EC2 사용 방법
-  8. HTTP vs HTTPS
-  9. Gradle vs Maven
-  10. 빌드/자동배포
-  11. 추천 알고리즘
-  12. 서버 부하 테스트 계획
-  13. 서버에서 이미지 불러오기
-  14. 
-
+ 
   
 
 
