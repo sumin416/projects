@@ -81,21 +81,23 @@
 
 [mail-auth-server](https://github.com/JaeHyukSim/projects/blob/jaehyuk/hands/jaehyuk/hands/mail/mail.md)
 
+[http란?](https://github.com/JaeHyukSim/projects/blob/jaehyuk/hands/jaehyuk/hands/data/study/http.md)
+
 ## 앞으로 공부해야 할 목록
 
--   [x] Java 11과 Java 8의 차이점. Zulu란?
--   [x] OpenJDK란?
--   [x] Spring Boot를 왜 썼지?
--   [x] MSA를 도입한 이유
+-   [ ] Java 11과 Java 8의 차이점. Zulu란?
+-   [ ] OpenJDK란?
+-   [ ] Spring Boot를 왜 썼지?
+-   [ ] MSA를 도입한 이유
 -   [ ] MSA를 어떻게 구현하였지
--   [x] Redis를 사용한 이유
--   [x] NoSQL을 사용한 이유
--   [x] Redis의 장, 단점
+-   [ ] Redis를 사용한 이유
+-   [ ] NoSQL을 사용한 이유
+-   [ ] Redis의 장, 단점
 -   [ ] MSA에서의 어려웠던 점
 -   [ ] RDBMS를 MySQL을 사용한 이유
 -   [ ] RDBMS를 MariaDB를 사용한 이유
 -   [ ] Git은 어떻게 썼는지
--   [x] Mail-Server에서 사용한 프로토콜
+-   [ ] Mail-Server에서 사용한 프로토콜
 -   [ ] mail-server를 어떻게 구현하였나
 -   [ ] 왜 mail-server가 필요하였나
 -   [ ] mail-server의 기능
