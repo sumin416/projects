@@ -49,7 +49,7 @@
 4.  기타 메시지
     
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/63038d53-3349-4316-ae60-7b31ec0f2bac/http.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/63038d53-3349-4316-ae60-7b31ec0f2bac/http.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/63038d53-3349-4316-ae60-7b31ec0f2bac/http.png](https://github.com/JaeHyukSim/projects/blob/jaehyuk/hands/jaehyuk/hands/data/img/http%EA%B5%AC%EC%A1%B0.PNG)
 
 HTTP의 확장성 덕분에, 오늘날 하이퍼텍스트 무서 뿐 아니라 이미지와 비디오 혹은 HTML 폼 결과와 같은 내용을 서버로 POST하기 위해서도 사용된다.
 
