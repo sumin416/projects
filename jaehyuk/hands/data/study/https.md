@@ -1,4 +1,6 @@
 ﻿
+# HTTPS란?
+
 ### Hyper Text Transfer Protocol Secure
 
 ### HTTP의 약점인, 서버로부터 브라우저로 전송되는 정보가 암호화되지 않는다는 것을 해결
