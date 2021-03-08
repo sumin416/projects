@@ -55,6 +55,6 @@ SSL은 IETF에 의해 사용 중지 되었기에 대부분의 최신 브라우�
 
 SSL과 TLS는 단순히 클라이언트-서버간 Handshake를 나타내는 것이 아니고, 암호화 자체를 수행하지 않는다. 절차를 진행하는 것
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d3095f9f-adaf-42ce-b6c2-b3ec539264db/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d3095f9f-adaf-42ce-b6c2-b3ec539264db/Untitled.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d3095f9f-adaf-42ce-b6c2-b3ec539264db/Untitled.png](https://github.com/JaeHyukSim/projects/blob/jaehyuk/hands/jaehyuk/hands/data/img/%EA%B3%B5%EA%B0%9C%ED%82%A4%EC%95%94%ED%98%B8%ED%99%94.PNG)
 
 [SSL Handshake](https://darksoulstory.tistory.com/57)
