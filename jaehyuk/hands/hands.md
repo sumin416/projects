@@ -83,6 +83,8 @@
 
 [http란?](https://github.com/JaeHyukSim/projects/blob/jaehyuk/hands/jaehyuk/hands/data/study/http.md)
 
+[https란?](https://github.com/JaeHyukSim/projects/blob/jaehyuk/hands/jaehyuk/hands/data/study/https.md)
+
 ## 앞으로 공부해야 할 목록
 
 -   [ ] Java 11과 Java 8의 차이점. Zulu란?
@@ -147,3 +149,4 @@
 -   [ ] 빌드툴이란
 -   [ ] Maven과 Gradle
 -   [ ] JAR과 WAR의 차이점?
+-   [ ] https란?

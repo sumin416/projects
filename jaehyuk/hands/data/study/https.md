@@ -1,4 +1,6 @@
 ﻿
+# HTTPS란?
+
 ### Hyper Text Transfer Protocol Secure
 
 ### HTTP의 약점인, 서버로부터 브라우저로 전송되는 정보가 암호화되지 않는다는 것을 해결
@@ -25,13 +27,13 @@ HTTPS는 SSL프로토콜 위에서 돌아가는 프로토콜
 
 모바일 기기에서 훨씬 빠르게 컨텐츠를 로딩하기 위한 방법 - 구글이 만듦
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dea1f05d-b78f-44c9-8a00-0ecbba9b506f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dea1f05d-b78f-44c9-8a00-0ecbba9b506f/Untitled.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dea1f05d-b78f-44c9-8a00-0ecbba9b506f/Untitled.png](https://github.com/JaeHyukSim/projects/blob/jaehyuk/hands/jaehyuk/hands/data/img/https.PNG)
 
 ### TCP/IP 포트는 443
 
 ### 공개키 암호화 방식
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/25432de6-f2bc-412a-9b2b-227a6e717859/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/25432de6-f2bc-412a-9b2b-227a6e717859/Untitled.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/25432de6-f2bc-412a-9b2b-227a6e717859/Untitled.png](https://github.com/JaeHyukSim/projects/blob/jaehyuk/hands/jaehyuk/hands/data/img/%EA%B3%B5%EA%B0%9C%ED%82%A4%EC%95%94%ED%98%B8%ED%99%94.PNG)
 
 ### 공개키 저장소
 
