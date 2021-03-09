@@ -9,6 +9,8 @@
 
 [고민3. Micro Service Architecutre](#고민3)
 
+[고민4. MAS에서의 트랜젝션](#고민4)
+
 
 
 <br><br><br><br>
@@ -175,5 +177,19 @@ A서비스에서 B서비스를 호출하는 로직이 있다. 만약, B서비스
 
 **대표적인 circuit breaker service**
 > Netflix의  Hystrix, Spring Cloud의 SpringCircuit Breaker
+
+
+
+<br><br><br>
+##### 고민4)
+## MSA에서의 트랜젝션
+
+단일 DB를 가진 Monolithic Architecture 서버는 DB에서 제공하는 Commit, Rollback을 이용하여 데이터를 일관성있게 제어할 수 있다.
+하지만, MSA는 각 서비스 별로 인스턴스와 데이터베이스가 분리되어 있어 DB의 트랜젝션 기능을 사용할 수 없고, 데이터의 일관성과 원자성을 보장받을 수 없다.
+
+두 개 이상의 어플리케이션 혹은 분리되어 있 는 서비스가 각각의 데이터베이스를 가진 경우,
+1. Two-Phase Commit 
+2. Saga 패턴
+https://blog.neonkid.xyz/243?category=830544
 
 
