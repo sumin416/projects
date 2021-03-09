@@ -169,6 +169,11 @@ MSA는 각 컴포넌트가 별도의 서버이기 때문에 서버 URL이 분리
 
 <br><br>
 ### Circuit Breaker
-만약,  A서비스에서 
+A서비스에서 B서비스를 호출하는 로직이 있다. 만약, B서비스에서 인스턴스가 느려지거나 장애가 발생하면, 이는  A서비스에도 똑같이 적용되는데 이를 **전파**라고 한다. 이러한 문제를 해결하기 위해서 **Circuit Breaker**를 사용한다.
+
+서비스간의 호출 중간에 추가적으로 컴포넌트를 두어 요청할 서비스의 상태를 미리 알아보고, 서버가 정상적인 상태가 아니면 오류를 반환시킨다.
+
+**대표적인 circuit breaker service**
+> Netflix의  Hystrix, Spring Cloud의 SpringCircuit Breaker
 
 
