@@ -9,7 +9,7 @@
 
 [고민3. Micro Service Architecutre](#고민3)
 
-[고민4. MAS에서의 트랜젝션](#고민4)
+[고민4. MSA에서의 트랜젝션](#고민4)
 
 
 
