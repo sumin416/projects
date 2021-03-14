@@ -126,7 +126,7 @@ BitTorrant : 서버는 단순히 파일을 가진 peer 목록 리스트만 가�
 
 [Node.js란?](https://www.notion.so/Node-js-cffa9c989c2c4f8d875e7830dc4e7bf7)
 
-[FTP의 원리는?](https://www.notion.so/FTP-9325f7d055764c7093f6869a9dd90f2f)
+[FTP의 원리는?](https://github.com/JaeHyukSim/projects/blob/jaehyuk/project2/jaehyuk/project2/role/FTP.md)
 
 [웹하드란?](https://www.notion.so/07273d51d4b7488ab055e90417c16294)
 
