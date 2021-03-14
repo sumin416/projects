@@ -46,7 +46,7 @@ HTTP CONNECT 메소드로 영구적인 터널을 구성한다.
 6.  보다 쉽게 상호작용하는 웹 페이지를 만드려면 브라우저-서버 사이에 더 자유로운 양방향 메시지 송수신(bidirectional full-duplex communication)이 필요.
 7.  그래서 HTML5 표준안의 일부로 WebSocket API가 등장했다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ea916c3e-ffb4-45f5-a1ef-6e2a18f488d2/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ea916c3e-ffb4-45f5-a1ef-6e2a18f488d2/Untitled.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ea916c3e-ffb4-45f5-a1ef-6e2a18f488d2/Untitled.png](https://github.com/JaeHyukSim/projects/blob/jaehyuk/project2/jaehyuk/project2/data/img/websocket1.png)
 
 WebSocket은 소켓을 이용하여 자유롭게 데이터를 주고받을 수 있다. 즉, 기존의 요청-응답 관계 방식보다 더 쉽게 데이터를 교환할 수 있다.
 
@@ -58,7 +58,7 @@ WebSocket 프로토콜
 -   HTTP 프로토콜의 버전은 1.1이지만, Upgrade 헤더를 사용하여 웹 서버에 요청.
 -   클라이언트, 서버 모두 WebSocket 기능을 지원해야 한다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e6ff1f5f-acfd-452e-8c74-b8b22a66a33f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e6ff1f5f-acfd-452e-8c74-b8b22a66a33f/Untitled.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e6ff1f5f-acfd-452e-8c74-b8b22a66a33f/Untitled.png](https://github.com/JaeHyukSim/projects/blob/jaehyuk/project2/jaehyuk/project2/data/img/websocket2.png)
 
 ```jsx
 if ('WebSocket' in window) {  
